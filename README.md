@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1>Hi, I'm Lokeshkumar ! <br/><a href="">Gen AI and Automotive Enthusaistic</a></h1>
 
-<!--
-**LokiKumarM/LokiKumarM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻Gen AI Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Test Case Generator for Automotive ECU Testing</b>
+  - [Test Case Generator]()
+    
+- <b>Test Case Generation with Human in Loop</b>
+  - [Human In Loop Test Case Generation]()
+  
+- <b>Experimentation with Different AI Agent Frameworks(CrewAI, Agno)</b>
+  - [Programs Trails]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Expermentation with different opensource LLM models(llama, Deepseek, Mixtral etc) in langchain framework</b>
+  - [Learning Gen AI Models]()
+
+<h2>Professional Project</h2>
+
+<b>Power Net Gaurdian for Commerical Vehicles</b>
+  - <b>ISTQB Cerified Test Engineer with experience of validating safety features according ISO26262 standard</b>
