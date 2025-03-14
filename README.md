@@ -2,10 +2,9 @@
 
 <h2>👨‍💻Professional Project</h2>
 
-<b>Power Net Gaurdian for Commerical Vehicles</b>
-  - <b>Deputed in Bosch Global Software Solutions, Bangalore and is responsible for validation of safety requirements and test bench setups</b>
+  - <b>Passionate and forward-thinking professional with a strong background in automotive systems and AI-driven solutions. Experienced in software validation, testing, and automation, with a focus on enhancing efficiency and reliability in modern vehicle technologies. Enthusiastic about leveraging AI and advanced decision-making frameworks to optimize automotive applications.</b>
 
-<h3>👨‍💻Personal Projects:</h3>
+<h3>👨‍💻Projects:</h3>
 
 - <b>Test Case Generator for Automotive ECU Testing</b>
   
