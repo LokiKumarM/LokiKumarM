@@ -15,7 +15,7 @@
 
   [Human In Loop Test Case Generation](https://github.com/LokiKumarM/TC-Generation-HIL/tree/main)
 
-  - <b>Intelligent Product Recommender</b>
+- <b>Intelligent Product Recommender</b>
 
   [Product Recommender]()
   
