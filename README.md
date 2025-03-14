@@ -17,7 +17,7 @@
 
 - <b>Intelligent Product Recommender</b>
 
-  [Product Recommender]()
+  [Product Recommender](https://github.com/LokiKumarM/Intelligent-Prod-Recommender/tree/main)
   
 - <b>Experimentation with Different AI Agent Frameworks(CrewAI, Agno)</b>
 
