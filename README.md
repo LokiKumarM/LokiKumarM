@@ -1,6 +1,6 @@
 <h1>Hi, I'm Lokeshkumar ! <br/><a href="">AI and Automotive Enthusaistic</a></h1>
 
-<h2>👨‍💻Professional Summary</h2>
+<h2>👨‍🏫Professional Summary</h2>
 
   - <b>Passionate and forward-thinking professional with a strong background in automotive systems and AI-driven solutions. Experienced in software validation, testing, and automation, with a focus on enhancing efficiency and reliability in modern vehicle technologies. Passionate about leveraging cutting-edge technologies, such as Generative AI and AI Agents to solve real-world challenges. </b>
 
@@ -25,6 +25,18 @@
 - <b>Expermentation with different opensource LLM models and workflows(llama, Deepseek, Mixtral etc) in langchain framework</b>
 
   [Learning Gen AI Models](https://github.com/LokiKumarM/Learnings_Automotive)
+
+
+<h4>📄Cerifications / Trainings:</h4>
+
+- <b>ISTQB Foundation Level Certified</b>
+  
+- <b>Generative AI and Prompt Engineering</b>
+
+-  <b>Introduction to Large Language Models</b>
+
+- <b>ISO26262 – Functional Safety</b>
+
 
 <h5> 🤳 Connect with me:</h5>
 
