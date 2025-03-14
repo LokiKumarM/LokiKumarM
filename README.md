@@ -2,7 +2,7 @@
 
 <h2>👨‍💻Professional Project</h2>
 
-  - <b>Passionate and forward-thinking professional with a strong background in automotive systems and AI-driven solutions. Experienced in software validation, testing, and automation, with a focus on enhancing efficiency and reliability in modern vehicle technologies. Enthusiastic about leveraging AI and advanced decision-making frameworks to optimize automotive applications.</b>
+  - <b>Passionate and forward-thinking professional with a strong background in automotive systems and AI-driven solutions. Experienced in software validation, testing, and automation, with a focus on enhancing efficiency and reliability in modern vehicle technologies. Enthusiastic about leveraging AI and advanced decision-making frameworks to optimize complex processes and to drive efficiency and reliability in real-world applications..</b>
 
 <h3>👨‍💻Projects:</h3>
 
