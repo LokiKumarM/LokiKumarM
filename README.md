@@ -17,8 +17,8 @@
 - <b>Experimentation with Different AI Agent Frameworks(CrewAI, Agno)</b>
   - [Programs Trails]()
 
-- <b>Expermentation with different opensource LLM models(llama, Deepseek, Mixtral etc) in langchain framework</b>
-  - [Learning Gen AI Models]()
+- <b>Expermentation with different opensource LLM models and workflows(llama, Deepseek, Mixtral etc) in langchain framework</b>
+  - [Learning Gen AI Models](https://github.com/LokiKumarM/Learnings_Automotive/blob/main/README.md)
 
 <h5> 🤳 Connect with me:</h5>
 
