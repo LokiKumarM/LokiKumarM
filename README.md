@@ -7,7 +7,6 @@
 
 <h3>👨‍💻Personal Projects:</h3>
 - <b>Test Case Generator for Automotive ECU Testing</b>
-
   - [Test Case Generator](https://github.com/LokiKumarM/Automotive-Projects)
     
 - <b>Test Case Generation with Human in Loop</b>
