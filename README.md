@@ -1,15 +1,14 @@
 <h1>Hi, I'm Lokeshkumar ! <br/><a href="">AI and Automotive Enthusaistic</a></h1>
 
-<h2>👨‍💻Professional Summary</h2>
-<b>Passionate and forward-thinking professional with a strong background in automotive systems and AI-driven solutions. Experienced in software validation, testing, and intelligent automation, with a focus on enhancing efficiency and reliability in modern vehicle technologies. Enthusiastic about leveraging AI, and advanced decision-making frameworks to optimize automotive applications. Continuously exploring innovative approaches to integrate Gen AI models / AI agents into complex systems, driving advancements in intelligent monitoring, fault analysis, and system validation.</b>
+<h2>👨‍💻Professional Project</h2>
 
-<h4>👨‍💻Professional Project:</h4>
 <b>Power Net Gaurdian for Commerical Vehicles</b>
   - <b>Deputed in Bosch Global Software Solutions, Bangalore and is responsible for validation of safety requirements and test bench setups</b>
 
 <h3>👨‍💻Personal Projects:</h3>
 - <b>Test Case Generator for Automotive ECU Testing</b>
-  - [Test Case Generator](https://github.com/LokiKumarM/Automotive-Projects/blob/main/README.md)
+
+- [Test Case Generator](https://github.com/LokiKumarM/Automotive-Projects/blob/main/README.md)
     
 - <b>Test Case Generation with Human in Loop</b>
   - [Human In Loop Test Case Generation]()
