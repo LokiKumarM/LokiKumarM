@@ -14,10 +14,14 @@
 - <b>Test Case Generation with Human in Loop</b>
 
   [Human In Loop Test Case Generation](https://github.com/LokiKumarM/TC-Generation-HIL/tree/main)
+
+  - <b>Intelligent Product Recommender</b>
+
+  [Product Recommender]()
   
 - <b>Experimentation with Different AI Agent Frameworks(CrewAI, Agno)</b>
 
-  [Programs Trails]()
+  [AI-Agent-Cookbook](https://github.com/LokiKumarM/AI-Agent-cookbook)
 
 - <b>Expermentation with different opensource LLM models and workflows(llama, Deepseek, Mixtral etc) in langchain framework</b>
 
