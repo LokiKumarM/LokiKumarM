@@ -6,18 +6,22 @@
   - <b>Deputed in Bosch Global Software Solutions, Bangalore and is responsible for validation of safety requirements and test bench setups</b>
 
 <h3>👨‍💻Personal Projects:</h3>
+
 - <b>Test Case Generator for Automotive ECU Testing</b>
   
-  - [Test Case Generator](https://github.com/LokiKumarM/Automotive-Projects)
+   [Test Case Generator](https://github.com/LokiKumarM/Automotive-Projects)
     
 - <b>Test Case Generation with Human in Loop</b>
-  - [Human In Loop Test Case Generation]()
+
+  [Human In Loop Test Case Generation]()
   
 - <b>Experimentation with Different AI Agent Frameworks(CrewAI, Agno)</b>
-  - [Programs Trails]()
+
+  [Programs Trails]()
 
 - <b>Expermentation with different opensource LLM models and workflows(llama, Deepseek, Mixtral etc) in langchain framework</b>
-  - [Learning Gen AI Models](https://github.com/LokiKumarM/Learnings_Automotive)
+
+  [Learning Gen AI Models](https://github.com/LokiKumarM/Learnings_Automotive)
 
 <h5> 🤳 Connect with me:</h5>
 
