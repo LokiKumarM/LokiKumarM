@@ -26,6 +26,7 @@
 
   [Learning Gen AI Models](https://github.com/LokiKumarM/Learnings_Automotive)
 
+- <b>Currently cooking vAIcle: A Semantic Interpretation layer for embedded systems which will derive sensor context from raw sensor inputs</b>
 
 <h4>📄Cerifications / Trainings:</h4>
 
