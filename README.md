@@ -52,7 +52,7 @@ I enjoy transforming research ideas into working prototypes—from data generati
 
   [Learning Gen AI Models](https://github.com/LokiKumarM/Learnings_Automotive)
 
-<h4>📄Cerifications / Trainings:</h4>
+<h7>📄Cerifications / Trainings:</h7>
 
 - <b>ISTQB Foundation Level Certified</b>
   
@@ -63,7 +63,7 @@ I enjoy transforming research ideas into working prototypes—from data generati
 - <b>ISO26262 – Functional Safety</b>
 
 
-<h5> 🤳 Connect with me:</h5>
+<h8> 🤳 Connect with me:</h8>
 
 <b>[mail ID]: lokikumar.m98@gmail.com</b>
 
