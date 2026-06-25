@@ -8,7 +8,7 @@ I enjoy transforming research ideas into working prototypes—from data generati
 
 <h3>👨‍💻 Projects:</h3>
 
-<h4>🚀 PRISM Project Portfolio</h4>
+<b>🚀 PRISM Project Portfolio</b>
 
 <b>PRISM (Physical Reasoning with Interpretable Sensor Modules) is a collection of research prototypes exploring how machines can perceive, understand, reason about, and interact with the physical world. Each project investigates intelligence from a different perspective.</b>
 
@@ -28,7 +28,7 @@ I enjoy transforming research ideas into working prototypes—from data generati
   
    [PRISM_ADAS](https://github.com/LokiKumarM/PRISM_ADAS)
 
-<h5>🚀 AI Integration within Automotive Software Validaiton</h5>
+<b>🚀 AI Integration within Automotive Software Validaiton</b>
     
   - <b>Test Case Generator for Automotive ECU Testing</b>
 
@@ -38,7 +38,8 @@ I enjoy transforming research ideas into working prototypes—from data generati
    
      [Human In Loop Test Case Generation](https://github.com/LokiKumarM/TC-Generation-HIL/tree/main)
 
-<h6>🚀 Gen AI Projects</h6>
+
+<b>🚀 Gen AI & AI Agents Projects</b>
   
   - <b>Intelligent Product Recommender</b>
   
@@ -52,7 +53,8 @@ I enjoy transforming research ideas into working prototypes—from data generati
   
     [Learning Gen AI Models](https://github.com/LokiKumarM/Learnings_Automotive)
 
-<h7>📄Cerifications / Trainings:</h7>
+
+<h4>📄Cerifications / Trainings:</h4>
 
 - <b>ISTQB Foundation Level Certified</b>
   
@@ -63,7 +65,7 @@ I enjoy transforming research ideas into working prototypes—from data generati
 - <b>ISO26262 – Functional Safety</b>
 
 
-<h8> 🤳 Connect with me:</h8>
+<h5> 🤳 Connect with me:</h5>
 
 <b>[mail ID]: lokikumar.m98@gmail.com</b>
 
