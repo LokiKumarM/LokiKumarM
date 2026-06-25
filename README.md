@@ -20,13 +20,15 @@ I enjoy transforming research ideas into working prototypes—from data generati
   
    [PRISM_RACE](https://github.com/LokiKumarM/PRISM_RACE)
 
-- <b>PRISM_F1: Foundational Model for Interpreting Race Strategy from Telemetry</b>
+- <b>PRISM_F1: Interpretable AI for F1 pit stop prediction</b>
   
    [PRISM_F1](https://github.com/LokiKumarM/PRISM_F1)
 
-- <b>PRISM_ADAS: Advisory Reasoning Model for ADAS decisions making</b>
+- <b>PRISM_ADAS: A Cognitive Reasoning Layer for Advanced Driver-Assistance Systems</b>
   
    [PRISM_ADAS](https://github.com/LokiKumarM/PRISM_ADAS)
+
+<h5>🚀 AI Integration within Automotive Software Validaiton<h5>
 
 - <b>Test Case Generator for Automotive ECU Testing</b>
   
@@ -35,6 +37,8 @@ I enjoy transforming research ideas into working prototypes—from data generati
 - <b>Test Case Generation with Human in Loop</b>
 
   [Human In Loop Test Case Generation](https://github.com/LokiKumarM/TC-Generation-HIL/tree/main)
+
+<h6>🚀 Gen AI Projects<h6>
 
 - <b>Intelligent Product Recommender</b>
 
