@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lokeshkumar ! <br/><a href="">AI and Automotive Enthusaistic</a></h1>
+<h1>Hi, I'm Lokeshkumar ! <br/><a href="">Creating Intelligence for Real-World Systems</a></h1>
 
 <h2>👨‍🏫Professional Summary</h2>
 
