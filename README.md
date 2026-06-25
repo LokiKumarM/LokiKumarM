@@ -29,28 +29,28 @@ I enjoy transforming research ideas into working prototypes—from data generati
    [PRISM_ADAS](https://github.com/LokiKumarM/PRISM_ADAS)
 
 <h5>🚀 AI Integration within Automotive Software Validaiton<h5>
-  
+    
   - <b>Test Case Generator for Automotive ECU Testing</b>
-  
-  [Test Case Generator](https://github.com/LokiKumarM/Automotive-Projects)
+
+    [Test Case Generator](https://github.com/LokiKumarM/Automotive-Projects)
    
    - <b>Test Case Generation with Human in Loop</b>
    
-   [Human In Loop Test Case Generation](https://github.com/LokiKumarM/TC-Generation-HIL/tree/main)
+     [Human In Loop Test Case Generation](https://github.com/LokiKumarM/TC-Generation-HIL/tree/main)
 
 <h6>🚀 Gen AI Projects<h6>
   
   - <b>Intelligent Product Recommender</b>
   
-  [Product Recommender](https://github.com/LokiKumarM/Intelligent-Prod-Recommender/tree/main)
+    [Product Recommender](https://github.com/LokiKumarM/Intelligent-Prod-Recommender/tree/main)
   
   - <b>Experimentation with Different AI Agent Frameworks(CrewAI, Agno)</b>
   
-  [AI-Agent-Cookbook](https://github.com/LokiKumarM/AI-Agent-cookbook)
+    [AI-Agent-Cookbook](https://github.com/LokiKumarM/AI-Agent-cookbook)
   
   - <b>Expermentation with different opensource LLM models and workflows(llama, Deepseek, Mixtral etc) in langchain framework</b>
   
-  [Learning Gen AI Models](https://github.com/LokiKumarM/Learnings_Automotive)
+    [Learning Gen AI Models](https://github.com/LokiKumarM/Learnings_Automotive)
 
 <h7>📄Cerifications / Trainings:</h7>
 
