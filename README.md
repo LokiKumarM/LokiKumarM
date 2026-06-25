@@ -8,7 +8,7 @@ I enjoy transforming research ideas into working prototypes—from data generati
 
 <h3>👨‍💻 Projects:</h3>
 
-<h4>🚀 PRISM Project Portfolio<h4>
+<h4>🚀 PRISM Project Portfolio</h4>
 
 <b>PRISM (Physical Reasoning with Interpretable Sensor Modules) is a collection of research prototypes exploring how machines can perceive, understand, reason about, and interact with the physical world. Each project investigates intelligence from a different perspective.</b>
 
@@ -28,7 +28,7 @@ I enjoy transforming research ideas into working prototypes—from data generati
   
    [PRISM_ADAS](https://github.com/LokiKumarM/PRISM_ADAS)
 
-<h5>🚀 AI Integration within Automotive Software Validaiton<h5>
+<h5>🚀 AI Integration within Automotive Software Validaiton</h5>
     
   - <b>Test Case Generator for Automotive ECU Testing</b>
 
@@ -38,7 +38,7 @@ I enjoy transforming research ideas into working prototypes—from data generati
    
      [Human In Loop Test Case Generation](https://github.com/LokiKumarM/TC-Generation-HIL/tree/main)
 
-<h6>🚀 Gen AI Projects<h6>
+<h6>🚀 Gen AI Projects</h6>
   
   - <b>Intelligent Product Recommender</b>
   
