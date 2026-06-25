@@ -8,6 +8,22 @@ I enjoy transforming research ideas into working prototypes—from data generati
 
 <h3>👨‍💻Projects:</h3>
 
+- <b>PRISM_TPMS</b>
+  
+   [PRISM_TPMS](https://github.com/LokiKumarM/PRISM_TPMS)
+
+- <b>PRISM_RACE</b>
+  
+   [PRISM_RACE](https://github.com/LokiKumarM/PRISM_RACE)
+
+- <b>PRISM_F1</b>
+  
+   [PRISM_F1](https://github.com/LokiKumarM/PRISM_F1)
+
+- <b>PRISM_ADAS</b>
+  
+   [PRISM_ADAS](https://github.com/LokiKumarM/PRISM_ADAS)
+
 - <b>Test Case Generator for Automotive ECU Testing</b>
   
    [Test Case Generator](https://github.com/LokiKumarM/Automotive-Projects)
@@ -27,8 +43,6 @@ I enjoy transforming research ideas into working prototypes—from data generati
 - <b>Expermentation with different opensource LLM models and workflows(llama, Deepseek, Mixtral etc) in langchain framework</b>
 
   [Learning Gen AI Models](https://github.com/LokiKumarM/Learnings_Automotive)
-
-- <b>Currently cooking vAIcle: A Semantic Interpretation layer for embedded systems which will derive sensor context from raw sensor inputs</b>
 
 <h4>📄Cerifications / Trainings:</h4>
 
