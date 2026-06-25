@@ -6,21 +6,25 @@
 
 I enjoy transforming research ideas into working prototypes—from data generation and model development to edge deployment—and I'm always exploring better ways to bridge AI with robotics, mobility, and autonomous systems. </b>
 
-<h3>👨‍💻Projects:</h3>
+<h3>👨‍💻 Projects:</h3>
 
-- <b>PRISM_TPMS</b>
+<h4>🚀 PRISM Project Portfolio<h4>
+
+<b>PRISM (Physical Reasoning with Interpretable Sensor Modules) is a collection of research prototypes exploring how machines can perceive, understand, reason about, and interact with the physical world. Each project investigates intelligence from a different perspective.</b>
+
+- <b>PRISM_TPMS: Explainable Intelligence for Tire Health Monitoring</b>
   
    [PRISM_TPMS](https://github.com/LokiKumarM/PRISM_TPMS)
 
-- <b>PRISM_RACE</b>
+- <b>PRISM_RACE: Learning Race Strategy from Telemetry through Gemma 3 Model</b>
   
    [PRISM_RACE](https://github.com/LokiKumarM/PRISM_RACE)
 
-- <b>PRISM_F1</b>
+- <b>PRISM_F1: Foundational Model for Interpreting Race Strategy from Telemetry</b>
   
    [PRISM_F1](https://github.com/LokiKumarM/PRISM_F1)
 
-- <b>PRISM_ADAS</b>
+- <b>PRISM_ADAS: Advisory Reasoning Model for ADAS decisions making</b>
   
    [PRISM_ADAS](https://github.com/LokiKumarM/PRISM_ADAS)
 
