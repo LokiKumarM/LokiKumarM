@@ -1,8 +1,8 @@
-<h1>Hi, I'm Lokeshkumar ! <br/><a href="">Machine Intelligence Explorer</a></h1>
+<h1>Hi, I'm Lokeshkumar ! <br/><a href="">Embedded Intelligence Explorer</a></h1>
 
 <h2>👨‍🏫Professional Summary</h2>
 
-<b>I'm a Machine Intelligence Explorer passionate about building AI systems that enable machines to understand, reason, and interact with the physical world. My interests span embedded AI, autonomous systems, explainable AI, and machine reasoning, with a focus on developing practical, trustworthy intelligence for real-world applications.
+<b>I'm a Embedded Intelligence Explorer passionate about building AI systems that enable machines to understand, reason, and interact with the physical world. My interests span embedded AI, autonomous systems, explainable AI, and machine reasoning, with a focus on developing practical, trustworthy intelligence for real-world applications.
 
 I enjoy transforming research ideas into working prototypes—from data generation and model development to edge deployment—and I'm always exploring better ways to bridge AI with robotics, mobility, and autonomous systems. </b>
 
